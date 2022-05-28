@@ -1,7 +1,7 @@
 function LF=arrangeLF(I,u_max,v_max)
 %%%
 % WET 2
-% Computational Photography WET 1
+% Computational Photography WET 2
 %
 % Shai Yehezkel 205917883
 % Lior Dvir     207334376
